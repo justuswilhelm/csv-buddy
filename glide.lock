@@ -1,0 +1,8 @@
+hash: fff15cb21f4897ad83465b9107cde606cdb57fe5baa2609e2095a27810a5f5ed
+updated: 2017-02-12T12:12:24.519669913+01:00
+imports:
+- name: github.com/jessevdk/go-flags
+  version: 4e64e4a4e2552194cf594243e23aa9baf3b4297e
+- name: github.com/montanaflynn/stats
+  version: f8cd06f93c6c1b06028caafb88b540fc820f77c1
+testImports: []
